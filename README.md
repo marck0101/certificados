@@ -2,6 +2,7 @@
 
 ## Certificação Twygo
 [VAZAMENTO DE DADOS](https://github.dev/marck0101/certificados/blob/0aeba3fb064e0e8aca356e6ddedc95f02e1e78a4/Vazamento%20de%20Dados.pdf)
+
 [GOLPES VIRTUAIS](https://github.dev/marck0101/certificados/blob/0aeba3fb064e0e8aca356e6ddedc95f02e1e78a4/Golpes%20Virtuais.pdf)
 
 ## Certificados Alura
