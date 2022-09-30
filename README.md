@@ -1,7 +1,7 @@
 # CERTIFICAÇÕES
 
 ## Certificação Twygo
-[VAZAMENTO DE DADOS](marck0101/certificados/Vazamento de Dados.pdf)
+[VAZAMENTO DE DADOS](Vazamento de Dados.pdf)
 
 [GOLPES VIRTUAIS](https://github.dev/marck0101/certificados/blob/main/Golpes%20Virtuais.pdf)
 
