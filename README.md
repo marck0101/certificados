@@ -34,4 +34,4 @@
 
 ## V4 Company
 
-[CIENTISTA DO MARCKETING](https://github.com/marck0101/certificados/blob/main/Certificate.pdf)
+[CIENTISTA DO MARKETING](https://github.com/marck0101/certificados/blob/main/Certificate.pdf)
